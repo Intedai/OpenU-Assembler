@@ -9,4 +9,4 @@ go to the Assembler directory, it contains the assembler and then type `./assemb
 there are also files in the test directory with assembled results
 
 ## Examples
-`grade_MMN14.pptx` contains images and examples, it will be added soon!
+`grade_MMN14.pptx` contains images and examples, examples will be added individually once I am free!
