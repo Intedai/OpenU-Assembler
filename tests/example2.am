@@ -1,0 +1,10 @@
+; NO EXTERN NO entry
+
+    mov r3,r3
+    mov r2,r5
+    mov r3,r3
+    mov r2,r5
+    mov r3,r3
+    mov r2,r5
+MAIN: hlt
+
